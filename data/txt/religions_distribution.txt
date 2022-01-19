@@ -1,0 +1,21 @@
+Christianity,    31.11
+Islam,           24.9
+Agnostic/Atheist,   15.58
+Hinduism,    15.16
+Buddhism,    5.06
+Chinese traditional religion,    5
+Ethnic religions excluding some in separate categories,  3
+African traditional religions,   1.2
+Sikhism, 0.30
+Spiritism,	0.19
+Judaism, 0.18
+Bahia,  0.07
+Jainism, 0.05
+Shinto,  0.05
+Cao Dai, 0.05
+Zoroastrianism,  0.03
+Tenrikyo,    0.02
+Animism, 0.02
+Neo-Paganism,    0.01
+Unitarian Universalism,  0.01
+Rastafari,   0.007
