@@ -1,5 +1,5 @@
 # Julia_by_Notebooks
-Practice is the way to learn! Therfore this repository includes several julia notebooks and tutorials from scratch pretending to use different JuliaLang features. 
+Practice is the way to learn! This repo includes several notebooks covering different julia lang features.  
 
 This repo is mostly based on [JuliaDocs](https://github.com/JuliaLang/julia). 
 
